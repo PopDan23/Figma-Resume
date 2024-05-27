@@ -1,6 +1,10 @@
 # Figma-Resume
 Figma Resume QA Engineer
 
-https://www.figma.com/design/qQeVV0LIXPGvOfOWZm3SBA/Resume-(Community)?node-id=73-1096&t=g8Lv26glBnQiGj8Z-1
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FqQeVV0LIXPGvOfOWZm3SBA%2FResume-(Community)%3Fnode-id%3D73-1096%26t%3Dg8Lv26glBnQiGj8Z-1" allowfullscreen></iframe>
+[Figma Resume]([url](https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FqQeVV0LIXPGvOfOWZm3SBA%2FResume-(Community)%3Fnode-id%3D73-1096%26t%3Dg8Lv26glBnQiGj8Z-1"))
+
+<!--
+O sa am nevoie sa pun Github Sync, dar nu merge momentan cu Figma Plugin 
+*/ -->
+![Popescu Dan Resume](https://github.com/PopDan23/Figma-Resume/assets/108530554/ef48daf4-6659-4ec1-8330-6f7aaf5b404a)
